@@ -1,0 +1,34 @@
+INFO:root:Hello this is my first log file which i have created
+INFO:root:Hello this is my first log file which i have created
+INFO:root:[1, 2, 3, 4, 5]
+INFO:root:[1, 2, 3, 4, 5]
+INFO:root:[1, 2, 3, 4, 5]
+INFO:root:[1, 2, 3, 4, 5]
+INFO:root:[1, 2, 3, 4, 5]
+INFO:root:Hello this is my first log file which i have created
+INFO:root:[1, 2, 3, 4, 5]
+WARNING:root:Please check it is printing the log many times please check the code
+INFO:root:[1, 2, 3, 4, 5]
+WARNING:root:Please check it is printing the log many times please check the code
+INFO:root:[1, 2, 3, 4, 5]
+WARNING:root:Please check it is printing the log many times please check the code
+INFO:root:[1, 2, 3, 4, 5]
+WARNING:root:Please check it is printing the log many times please check the code
+INFO:root:[1, 2, 3, 4, 5]
+WARNING:root:Please check it is printing the log many times please check the code
+INFO:root:Hello this is my first log file which i have created
+INFO:root:Hello
+INFO:root:Hello
+INFO:root:Hello
+INFO:root:Hello
+INFO:root:Hello
+INFO:root:Hello this is my first log file which i have created
+INFO:root:This is working fine now
+INFO:root:Hello this is my first log file which i have created
+INFO:root:This is working fine now
+INFO:root:Hello this is my first log file which i have created
+INFO:root:This is working fine now
+INFO:root:Hello there
+INFO:root:Hello this is my first log file which i have created
+INFO:root:This is working fine now
+INFO:root:Hello there
